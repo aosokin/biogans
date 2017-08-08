@@ -11,13 +11,8 @@ For the license on the LIN dataset, please contact the authors of Dodgson et al.
 
 As a teaser, we show our final results (animated interpolations that mimic the cell growth cycle) right away:
 ![lin_movie2.gif](http://www.di.ens.fr/sierra/research/biogans/lin_movie2.gif "Cell cycle reconstruction 2")
-
 ![lin_movie3.gif](http://www.di.ens.fr/sierra/research/biogans/lin_movie3.gif "Cell cycle reconstruction 3")
-
-![lin_movie4.gif](http://www.di.ens.fr/sierra/research/biogans/lin_movie4.gif "Cell cycle reconstruction 4")
-
 ![lin_movie1.gif](http://www.di.ens.fr/sierra/research/biogans/lin_movie1.gif "Cell cycle reconstruction 1")
-
 
 ### Citation
 
