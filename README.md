@@ -1,5 +1,5 @@
 # GANs for Biological Image Synthesis
-This codes implements the ICCV-2017 paper "GANs for Biological Image Synthesis". The paper and its supplementary materials is available on [arXiv](TODO).
+This codes implements the ICCV-2017 paper "GANs for Biological Image Synthesis". The paper and its supplementary materials is available on [arXiv](https://arxiv.org/abs/1708.04692).
 
 This code contains the following pieces:
 - implementation of [DCGAN](https://github.com/pytorch/examples/tree/master/dcgan), [WGAN](https://github.com/martinarjovsky/WassersteinGAN), [WGAN-GP](https://github.com/igul222/improved_wgan_training)
