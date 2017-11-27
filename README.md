@@ -117,7 +117,7 @@ Prepare the dataset and splits for evaluation
 ```
 cd $ROOT_BIOGANS/experiments/real_vs_real
 ./make_dataset_size-48-80_8class.sh
-python make_splits_size-48-80_6class.py
+python make_splits_size-48-80_8class.py
 ./make_splits_size-48-80_8class_real_vs_real.sh
 ```
 Prepare all the jobs for evaluation
